@@ -1,0 +1,11 @@
+.left-box {
+    padding: 0;
+}
+
+.left-box img {
+    max-width: 100%;
+}
+
+.right-box {
+    padding: 12% 12% 12% 30px;
+}
